@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Grayson Bjork</h1>
 <h3 align="center">Student who's excited to learn more about tech!</h3>
 
+-🏫 I'm currently a Student at CSUSM as a CS major and math minor. 
+
 - 🔭 I’m currently working on [370TeamProject](https://github.com/The1GrayMagic/370TeamProject)
 
 - 🌱 I’m currently learning **Claude Code, vim, Software Engineering concepts**
