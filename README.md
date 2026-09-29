@@ -1,16 +1,56 @@
-<h1 align="center">Hi 👋, I'm Grayson Bjork</h1>
-<h3 align="center">Student who's excited to learn more about tech!</h3>
+# Hi 👋, I'm Grayson Bjork
 
-- 🏫 I'm currently a Student at CSUSM as a CS major and math minor. 
+### Computer Science student interested in software, embedded systems, and Linux infrastructure
 
-- 🔭 I’m currently working on [370TeamProject](https://github.com/The1GrayMagic/370TeamProject)
+I'm currently studying **Computer Science at California State University San Marcos (CSUSM)** with a **minor in Mathematics**, with an expected graduation date of **December 2028**.
 
-- 🌱 I’m currently learning **Claude Code, vim, Software Engineering concepts**
+I enjoy learning by building projects, troubleshooting systems, and experimenting with new technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gbjork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gbjork" height="30" width="40" /></a>
-</p>
+## 🔭 What I'm Working On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🖥️ Maintaining a small Linux homelab using Docker, ZFS, Tailscale, and Borg backups
+- ☕ Building a Java/JavaFX habit-tracking application using MVC and SQLite
+- 🧱 Studying data structures and algorithms in C++
+- 🤖 Exploring AI tools and local AI workflows
+- ☸️ Learning Kubernetes / k3s for distributing workloads across multiple machines
+
+## 🛠️ Technologies
+
+### Languages
+`Java` `Python` `C` `C++` `Bash`
+
+### Systems & Tools
+`Linux` `Docker` `Git` `SSH` `Tailscale` `ZFS`
+
+### Development
+`VS Code` `IntelliJ IDEA` `Vim / Neovim`
+
+### Concepts
+`Object-Oriented Programming` `Data Structures` `MVC` `SQL`
+
+## 🚀 Projects
+
+### Habit Tracker
+JavaFX desktop application being developed as a team project using MVC architecture and SQLite.
+
+### Financial AI Report Generator
+Python application that extracts information from PDF reports, analyzes it using the Mistral API, processes financial data, creates charts, and generates PDF reports.
+
+### Homelab
+Three-machine Linux environment used for self-hosting, backups, Docker services, remote access, and experimenting with distributed computing.
+
+## 🌱 Currently Learning
+
+- Kubernetes / k3s
+- SQLite / JDBC
+- Vim / Neovim
+- Software engineering practices
+- AI tooling and local LLMs
+
+## 📄 Resume
+
+[View my resume](LINK-TO-YOUR-RESUME-REPO)
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/gbjork)
