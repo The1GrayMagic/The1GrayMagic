@@ -49,7 +49,7 @@ Three-machine Linux environment used for self-hosting, backups, Docker services,
 
 ## 📄 Resume
 
-[View my resume](LINK-TO-YOUR-RESUME-REPO)
+[View my resume](https://github.com/The1GrayMagic/Resume)
 
 ## 🤝 Connect With Me
 
