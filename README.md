@@ -1,4 +1,4 @@
-# Hi 👋, I'm Grayson Bjork
+# Hi, I'm Grayson Bjork
 
 ### Computer Science student interested in software, embedded systems, and Linux infrastructure
 
